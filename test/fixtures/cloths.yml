@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  c_u_id: 1
+  c_link: MyText
+
+two:
+  c_u_id: 1
+  c_link: MyText
