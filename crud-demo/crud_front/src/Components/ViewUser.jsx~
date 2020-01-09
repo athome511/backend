@@ -1,0 +1,16 @@
+import React from 'react'
+
+class ViewUser extends React.Component {
+
+  render() {
+    return(
+      <div>
+        id:<span>{ this.props.data.id }</span>&nbsp;
+        name:<span>{ this.props.data.u_name }</span>&nbsp;
+	mail:<span>{ this.props.data.u_mail }</span>&nbsp;
+      </div>
+    )
+  }
+}
+
+export default ViewUser
