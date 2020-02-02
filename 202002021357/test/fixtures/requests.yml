@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  r_title: MyString
+  r_memo: MyText
+  r_limit: 2020-01-13 14:15:06
+  is_selected_bc: false
+  r_u_id: 1
+
+two:
+  r_title: MyString
+  r_memo: MyText
+  r_limit: 2020-01-13 14:15:06
+  is_selected_bc: false
+  r_u_id: 1
